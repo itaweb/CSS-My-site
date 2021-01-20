@@ -24,15 +24,11 @@ h3 {
 }
 
 .middle-container {
-  height: 200px;
-  width: 200px;
-  background-color: red;
+  
 }
 
 .bottom-container {
-  height: 200px;
-  width: 200px;
-  background-color: blue;
+  
 }
 
 .pro {
@@ -49,4 +45,22 @@ h3 {
   position: absolute;
   left: 300px;
   bottom: 300px;
+}
+
+.user-photo {
+  height: 180px;
+  width: 180px;
+  border-radius: 100px;
+}
+
+.comp-photo {
+  height: 180px;
+  width: 180px;
+  border-radius: 100px;
+}
+
+.develop-photo {
+  height: 180px;
+  width: 180px;
+  border-radius: 100px;
 }
